@@ -1,0 +1,3 @@
+[submodule "eclipse-artifacts"]
+	path = eclipse-artifacts
+	url = https://github.com/Jabirfayyaz/eclipse-artifacts.git
